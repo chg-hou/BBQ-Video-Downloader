@@ -1,0 +1,18 @@
+<RCC>
+  <qresource prefix="icon">
+    <file>blue-vlc_2.png</file>
+    <file>language.png</file>
+    <file>main.png</file>
+    <file>blue-vlc.png</file>
+    <file>add.png</file>
+    <file>play.png</file>
+    <file>stop.png</file>
+    <file>downloading.png</file>
+    <file>empty.png</file>
+    <file>green.png</file>
+    <file>1.png</file>
+    <file>2.png</file>
+    <file>3.png</file>
+    <file>red.png</file>
+  </qresource>
+</RCC>
